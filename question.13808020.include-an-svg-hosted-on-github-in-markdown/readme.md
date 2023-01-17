@@ -45,8 +45,8 @@ I copied the SVG image from the question to [a repo on github][5] in order to cr
 
 ### Result
 
-![Alt text](./controllers_brief.svg)
-<img src="./controllers_brief.svg">
+![Alt text](./assets/controllers_brief.svg)
+<img src="./assets/controllers_brief.svg">
 
 ## Linking to RAW files (Does not work)
 
